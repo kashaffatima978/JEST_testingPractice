@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Home 1`] = `
+<View>
+  <Text>
+    Home Space
+  </Text>
+  <Text>
+    What is Lorem Ipsum?
+  </Text>
+</View>
+`;
